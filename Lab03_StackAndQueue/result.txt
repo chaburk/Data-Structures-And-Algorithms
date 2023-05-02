@@ -1,0 +1,294 @@
+
+this is i: 0
+this is value enqueuing: 0
+this is size: 1
+this is capactiy: 16
+
+this is i: 1
+this is value enqueuing: 1
+this is size: 2
+this is capactiy: 16
+
+this is i: 2
+this is value enqueuing: 2
+this is size: 3
+this is capactiy: 16
+
+this is i: 3
+this is value enqueuing: 3
+this is size: 4
+this is capactiy: 16
+
+this is i: 4
+this is value enqueuing: 4
+this is size: 5
+this is capactiy: 16
+
+this is i: 5
+this is value enqueuing: 5
+this is size: 6
+this is capactiy: 16
+
+this is i: 6
+this is value enqueuing: 6
+this is size: 7
+this is capactiy: 16
+
+this is i: 7
+this is value enqueuing: 7
+this is size: 8
+this is capactiy: 16
+
+this is i: 8
+this is value enqueuing: 8
+this is size: 9
+this is capactiy: 16
+
+this is i: 9
+this is value enqueuing: 9
+this is size: 10
+this is capactiy: 16
+
+this is i: 10
+this is value enqueuing: 10
+this is size: 11
+this is capactiy: 16
+
+this is i: 11
+this is value enqueuing: 11
+this is size: 12
+this is capactiy: 16
+
+this is i: 12
+this is value enqueuing: 12
+this is size: 13
+this is capactiy: 16
+
+this is i: 13
+this is value enqueuing: 13
+this is size: 14
+this is capactiy: 16
+
+this is i: 14
+this is value enqueuing: 14
+this is size: 15
+this is capactiy: 16
+
+this is i: 15
+this is value enqueuing: 15
+this is size: 16
+this is capactiy: 16
+isfull
+this is dataStart in full enqueue: 0
+this is dataEnd in full enqueue: 16
+
+this is i: 16
+this is value enqueuing: 16
+this is size: 17
+this is capactiy: 34
+
+this is i: 17
+this is value enqueuing: 17
+this is size: 18
+this is capactiy: 34
+
+this is i: 18
+this is value enqueuing: 18
+this is size: 19
+this is capactiy: 34
+
+this is i: 19
+this is value enqueuing: 19
+this is size: 20
+this is capactiy: 34
+
+this is i: 20
+this is value enqueuing: 20
+this is size: 21
+this is capactiy: 34
+
+this is i: 21
+this is value enqueuing: 21
+this is size: 22
+this is capactiy: 34
+
+this is i: 22
+this is value enqueuing: 22
+this is size: 23
+this is capactiy: 34
+
+this is i: 23
+this is value enqueuing: 23
+this is size: 24
+this is capactiy: 34
+is dequeuing 1
+is dequeuing 2
+is dequeuing 3
+is dequeuing 4
+is dequeuing 5
+is dequeuing 6
+is dequeuing 7
+is dequeuing 8
+is dequeuing 9
+is dequeuing 10
+is dequeuing 11
+is dequeuing 12
+is dequeuing 13
+is dequeuing 14
+is dequeuing 15
+is dequeuing 16
+is dequeuing 17
+is dequeuing 18
+is dequeuing 19
+is dequeuing 20
+
+this is i: 0
+this is value enqueuing: 4
+this is size: 5
+this is capactiy: 34
+
+this is i: 1
+this is value enqueuing: 5
+this is size: 6
+this is capactiy: 34
+
+this is i: 2
+this is value enqueuing: 6
+this is size: 7
+this is capactiy: 34
+
+this is i: 3
+this is value enqueuing: 7
+this is size: 8
+this is capactiy: 34
+
+this is i: 4
+this is value enqueuing: 8
+this is size: 9
+this is capactiy: 34
+
+this is i: 5
+this is value enqueuing: 9
+this is size: 10
+this is capactiy: 34
+
+this is i: 6
+this is value enqueuing: 10
+this is size: 11
+this is capactiy: 34
+
+this is i: 7
+this is value enqueuing: 11
+this is size: 12
+this is capactiy: 34
+
+this is i: 8
+this is value enqueuing: 12
+this is size: 13
+this is capactiy: 34
+
+this is i: 9
+this is value enqueuing: 13
+this is size: 14
+this is capactiy: 34
+
+this is i: 10
+this is value enqueuing: 14
+this is size: 15
+this is capactiy: 34
+
+this is i: 11
+this is value enqueuing: 15
+this is size: 16
+this is capactiy: 34
+
+this is i: 12
+this is value enqueuing: 16
+this is size: 17
+this is capactiy: 34
+
+this is i: 13
+this is value enqueuing: 17
+this is size: 18
+this is capactiy: 34
+
+this is i: 14
+this is value enqueuing: 18
+this is size: 19
+this is capactiy: 34
+
+this is i: 15
+this is value enqueuing: 19
+this is size: 20
+this is capactiy: 34
+
+this is i: 16
+this is value enqueuing: 20
+this is size: 21
+this is capactiy: 34
+
+this is i: 17
+this is value enqueuing: 21
+this is size: 22
+this is capactiy: 34
+
+this is i: 18
+this is value enqueuing: 22
+this is size: 23
+this is capactiy: 34
+
+this is i: 19
+this is value enqueuing: 23
+this is size: 24
+this is capactiy: 34
+
+this is i: 20
+this is value enqueuing: 0
+this is size: 25
+this is capactiy: 34
+
+this is i: 21
+this is value enqueuing: 1
+this is size: 26
+this is capactiy: 34
+
+this is i: 22
+this is value enqueuing: 2
+this is size: 27
+this is capactiy: 34
+
+this is i: 23
+this is value enqueuing: 3
+this is size: 28
+this is capactiy: 34
+
+this is i: 24
+this is value enqueuing: 4
+this is size: 29
+this is capactiy: 34
+
+this is i: 25
+this is value enqueuing: 5
+this is size: 30
+this is capactiy: 34
+
+this is i: 26
+this is value enqueuing: 6
+this is size: 31
+this is capactiy: 34
+
+this is i: 27
+this is value enqueuing: 7
+this is size: 32
+this is capactiy: 34
+
+this is i: 28
+this is value enqueuing: 8
+this is size: 33
+this is capactiy: 34
+
+this is i: 29
+this is value enqueuing: 9
+this is size: 34
+this is capactiy: 34
+isfull
